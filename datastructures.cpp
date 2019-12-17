@@ -20,4 +20,5 @@ int main()
     {
         cout << "equal vectors" << endl;
     }
+    return 0;
 }
